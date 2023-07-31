@@ -1,0 +1,4 @@
+words=['abdomen','almond','bangles','bouncer','cabinet','candle','crayon','healthy','quickly','amplify','journey','stranger','elastic','plastic','website','kingdom',
+'liberty','section','friend','umpire','object','qualify','english','shine','delicious','language','delicate','produce','mother','average','academy','dedication',
+'earth','space','nature','water','forest','service','subject','movie','health','ocean','captain','science','physics','chemistry','africa','poetry','change','donate','include','negative','absolute','adjust','bachelor','birthday','calendar','champion','creation','describe','dialogue','duration',
+'equation','evidence','graduate','guidance','homepage','inspire','software','diamond','penguin','problem','quality','discover','serious','update','capture','impulse']
